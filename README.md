@@ -2,7 +2,7 @@
 
 C# solutions organized by topic/pattern. Each file is a standalone LeetCode `Solution` class (or a design class like `Trie`/`WordDictionary`).
 
-**199 problems** across 14 topics.
+**200 problems** across 14 topics.
 
 ## Structure
 
@@ -91,11 +91,12 @@ C# solutions organized by topic/pattern. Each file is a standalone LeetCode `Sol
 - `LinkedList/SwapNodesInPairs.cs` — Swap Nodes In Pairs
 - `LinkedList/SwappingNodesInALinkedList.cs` — Swapping Nodes In A Linked List
 
-### Tree (14)
+### Tree (15)
 
 - `Tree/BalancedBinaryTree.cs` — Balanced Binary Tree
 - `Tree/BinaryTreeInorderTraversal.cs` — Binary Tree Inorder Traversal
 - `Tree/BinaryTreeLevelOrderTraversal.cs` — Binary Tree Level Order Traversal
+- `Tree/BinaryTreeRightSideView.cs` — Binary Tree Right Side View
 - `Tree/ConstructBinarySearchTreeFromPreorderTraversal.cs` — Construct Binary Search Tree From Preorder Traversal
 - `Tree/DiameterOfBinaryTree.cs` — Diameter Of Binary Tree
 - `Tree/InvertBinaryTree.cs` — Invert Binary Tree
